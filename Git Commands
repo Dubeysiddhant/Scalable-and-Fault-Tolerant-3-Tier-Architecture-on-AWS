@@ -1,0 +1,8 @@
+git clone https://github.com/Dubeysiddhant/Scalable-and-Fault-Tolerant-3-Tier-Architecture-on-AWS.git
+ls -a
+cd Scalable-and-Fault-Tolerant-3-Tier-Architecture-on-AWS
+mv ~/Documents/Screenshots ./Screenshots
+git add .
+git status 
+git commit -m "Added process screenshots folder"
+git push origin main
