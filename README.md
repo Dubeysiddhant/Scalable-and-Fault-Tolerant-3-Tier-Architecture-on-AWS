@@ -3,7 +3,7 @@
 ![125eccbe-4b35-41e8-aa86-4a88a1efba02](https://github.com/user-attachments/assets/e6a67558-7723-46b0-9258-2abfe8ff719e)
 
 Project Overview:
-Designed and implemented a highly scalable, fault-tolerant, and secure three-tier architecture on AWS to handle dynamic traffic and ensure high availability. The system utilizes Auto Scaling, Amazon Aurora MySQL with multi-AZ configurations, CloudWatch for monitoring, and robust security features.
+Designed and implemented a highly scalable, fault-tolerant, and secure three-tier architecture on AWS to handle dynamic traffic and ensure high availability. The system utilizes Auto Scaling, Amazon Aurora MySQL with multi-AZ configurations, CloudWatch for monitoring, & robust security features.
 
 Architecture Components:
  • Web Layer: Deployed an Application Load Balancer (ALB) across multiple AZs for fault tolerance and seamless traffic distribution, improving scalability and availability.
